@@ -46,7 +46,9 @@ Now to set a title to a terminal window, run the following command-
 ```bash
 set-title "Window Title You Want to Set"
 ```
-You will see the given title in the terminal window.
+You will see the given title in the terminal window like the bellow image-
+
+![terminal title](./images/bash-title.png)
 
 
 **N.B. This approach is tested in Gnome environment. Might not work in other systems. Please check your system environment before running this task.**
